@@ -1,0 +1,15 @@
+{
+  "evidence_type": "historical_private_build_record",
+  "recorded_date": "2026-10-03",
+  "reviewed_date": "2026-11-03",
+  "command": "pnpm evaluate:guard",
+  "synthetic_pairs": 60,
+  "pairs_matched": 60,
+  "expected_critical_findings": 20,
+  "matched_critical_findings": 20,
+  "unsupported_critical_findings": 0,
+  "metric": "Exact agreement on critical findings including values, evidence and impacts; not field-level AI extraction accuracy",
+  "corpus_included": false,
+  "rerun_in_this_showcase": false,
+  "public_production_readiness_claim": false
+}
